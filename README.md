@@ -1,6 +1,6 @@
 Standard Deviation and Control Charts in Tableau
 
-[View Control Chart PDF](Control%20Chart.pdf)
+![Control Chart](Control.png)
 
 Standard deviation is used to show how far away data is from the mean. This is important because when data deviates significantly from the mean, it may indicate a random event or erroneous data. Standard deviation is often used to identify outliers or spikes in the data for further analysis.
 
